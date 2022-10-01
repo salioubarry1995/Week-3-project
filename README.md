@@ -1,4 +1,3 @@
-# Week-3-project
 # Project 3 - VirtualBox and Kali
 
 Time spent: **X** hours spent in total
